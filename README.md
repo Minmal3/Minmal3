@@ -10,7 +10,7 @@
 
 - 🧑‍💻 I'm a student studying bioinformatics.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @mik76803435](https://x.com/mik76803435)
+- 📫 How to reach me: [X - @mik76803435](https://x.com/mik76803435)
 <br>
 
 
